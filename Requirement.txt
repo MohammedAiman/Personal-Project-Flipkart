@@ -1,0 +1,12 @@
+# Selenium Java Client Library
+# Download from: https://www.selenium.dev/downloads/
+selenium-java-<version>.jar
+libs/*.jar
+
+# ChromeDriver
+# Download from: https://sites.google.com/a/chromium.org/chromedriver/downloads
+chromedriver.exe (or chromedriver for Linux/Mac)
+
+# TestNG (if you use it for testing)
+# Download from: https://mvnrepository.com/artifact/org.testng/testng
+testng-<version>.jar
